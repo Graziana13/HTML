@@ -11,6 +11,9 @@
     <a class="navbar-brand" href="#">
       <img src="verifica1/foglia.jpg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
       Bootstrap
+<nav class="navbar bg-primary" data-bs-theme="yellow">
+  <sito web natura e ambiente>
+</nav>
     </a>
   </div>
 </nav>
