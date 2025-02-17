@@ -15,6 +15,15 @@
   <sito web natura e ambiente>
 </nav>
     </a>
+<div class="container text-center">
+      <p> qui trovate varie informazioni sull'ambiente e la natura!!!</p>
+    <br>
+<button type="button" class="btn btn-success">cambiamenti climatici</button>
+<button type="button" class="btn btn-success">risorse naturali</button>
+<button type="button" class="btn btn-success">laboratorio</button>
+<button type="button" class="btn btn-success">contatti</button>
+
+<button type="button" class="btn btn-link">Link</button>
   </div>
 </nav>
   </body>
