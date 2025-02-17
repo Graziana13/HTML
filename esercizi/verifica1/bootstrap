@@ -23,7 +23,6 @@
 <button type="button" class="btn btn-success">laboratorio</button>
 <button type="button" class="btn btn-success">contatti</button>
 
-<button type="button" class="btn btn-link">Link</button>
   </div>
 </nav>
   </body>
