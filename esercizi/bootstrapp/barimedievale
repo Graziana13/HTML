@@ -11,9 +11,12 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
       <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-      Bootstrap
+      bari nel medioevo
     </a>
   </div>
+</nav>
+<nav class="navbar" style="background-color:red;">
+  <A partire dal VI secolo Bari fu, al pari del resto della Puglia centro settentrionale, contesa tra le varie fazioni in guerra,. Goti, Bizantini, Longobard>
 </nav>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
